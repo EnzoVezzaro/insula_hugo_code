@@ -77,3 +77,9 @@ Tags: responsive-layout
   top: 190px;
   right: 250px;
 }
+
+.contact-figc, .service-figcaption {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}

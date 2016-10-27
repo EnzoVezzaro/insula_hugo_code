@@ -8,6 +8,9 @@
 					{{ range .Content.Post }}
 						{{ .Render "list"}}
 					{{ end }}
+					{{ range .Data.Pages }}
+						{{ .Render "post"}}
+					{{ end }}
 				</div>
 				<div class="wpb_column vc_column_container vc_col-sm-5">
 					<div class="vc_column-inner ">
@@ -16,7 +19,9 @@
 								<h3 style="color:#3d4348;font-size:140px">Our works</h3>
 								<h5 style="color:;font-size:30px">best of our protfolio</h5>
 								<p>Our work reflect our personality. These are some of the work that we are most proud of.</p>
-								<a href="ideas_project/our-works" class="work-btn btn btn-orange">View More</a>
+								<div class="button-works box bg-2">
+									<button class="button button--moema button--border-thick button--size-s">View More</button>
+								</div>
 							</div>
 						</div>
 					</div>
