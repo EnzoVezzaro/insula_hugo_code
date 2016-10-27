@@ -1,0 +1,23 @@
+{{ partial "head" . }}
+
+	<article class="article">
+		<div class="exit-post">
+			<a href="{{ $.Site.BaseURL }}#page-news">Exit</a>
+		<div>
+		<div class="wrapper">
+			<div class="col-xs-6">
+				<img style="max-width: 100%;" class="title-post" src='{{ $.Site.BaseURL }}images/{{ with .Params.image }}{{ . }}{{ else }}default.jpg{{ end }}'>
+			</div>
+			<div class="col-xs-6">
+				<h1>{{ .Title }} {{ if .IsDraft }} (Draft){{ end }}</h1>
+				{{ .Content }}
+			</div>
+		</div>
+		<footer class="footer col-md-12">
+			{{ partial "footer" . }}
+		</footer>
+	</article>
+
+</main>
+
+{{ partial "footer" . }}

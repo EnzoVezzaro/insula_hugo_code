@@ -1,0 +1,79 @@
+/*
+Theme Name: AWESOME IDEAS
+Theme URI: http://itobuz.com/
+Author: the ItoBuz team
+Author URI: http://itobuz.com/
+Description: Awesome Ideas Theme
+Version: 2.0.6
+Text Domain: awesome-ideas
+License: GNU General Public License
+License URI: https://www.gnu.org/licenses/gpl.html
+Tags: responsive-layout
+
+*/
+.jointeam {
+  padding: 0 !important;
+}
+
+.date-time-step .header {
+  display: none !important;
+}
+
+.parallax-layer {
+  position: absolute;
+}
+
+.seccion2 {
+  width: 75%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  position: relative;
+  top: 25vh;
+  }
+
+#back-about {
+  width: 90%;
+  right: 70px;
+  top: -35px;
+}
+
+#graphics_front {
+  width: 80%;
+  left: 130px;
+}
+
+.seccion3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 25vh;
+}
+
+#juice, #food, #camera, #headphone, #glasses {
+  position: relative;
+}
+
+#juice {
+  left: 450px;
+}
+
+#glasses {
+  top: 190px;
+  right: 210px;
+}
+
+#food {
+  top: -100px;
+}
+
+#camera {
+  top: 50px;
+  right: 150px;
+}
+
+#headphone {
+  top: 190px;
+  right: 250px;
+}

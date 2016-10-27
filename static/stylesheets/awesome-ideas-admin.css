@@ -1,0 +1,16 @@
+ div#ideas_cmb_post_cat_blog_page_option{
+     display:none;
+    }
+    #ideas_cmb_gallery_post_format_metabox,#ideas_cmb_quote_post_format_metabox,#ideas_cmb_audio_post_format_metabox,#ideas_cmb_video_post_format_metabox,#ideas_cmb_shop_page_option,#ideas_cmb_page_metabox{
+    display:none;
+    }
+    .display_header h2~span {
+  text-align: left !important;
+  margin-left: -18px;
+  padding-top:8px;
+}
+span.themeOptions-logo {
+  display: block;
+  text-align: left;
+  padding-top:8px;
+}

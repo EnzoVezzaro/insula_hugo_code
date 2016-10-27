@@ -1,0 +1,10 @@
+			@font-face {
+				font-family: 'dk-sensory-overload';
+				font-style: normal;
+				src: local("DK Sensory Overload"),
+       	local("dk-sensory-overload"),
+       	url(dk-sensory-overload.ttf);
+		 		}
+						h3{
+					font-family: 'dk-sensory-overload' !important;
+				}
