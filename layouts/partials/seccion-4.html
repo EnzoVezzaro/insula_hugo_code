@@ -4,12 +4,9 @@
 		<div class="row">
 			<!---div class="fp-tableCell"--->
 			<div class="vc_row wpb_row vc_row-fluid">
-				<div class="wpb_column vc_column_container vc_col-sm-7">
-					{{ range .Content.Post }}
-						{{ .Render "list"}}
-					{{ end }}
+				<div class="works wpb_column vc_column_container vc_col-sm-7">
 					{{ range .Data.Pages }}
-						{{ .Render "post"}}
+						{{ .Render "list"}}
 					{{ end }}
 				</div>
 				<div class="wpb_column vc_column_container vc_col-sm-5">

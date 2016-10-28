@@ -83,3 +83,12 @@ Tags: responsive-layout
   flex-direction: column;
   align-items: flex-end;
 }
+
+.news-post {
+  position: absolute;
+      width: 100%;
+      height: 100%;
+      top: 2500px;
+      left: 0;
+      z-index: 0;
+}

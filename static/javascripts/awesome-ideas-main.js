@@ -26,7 +26,6 @@
 
   $(window).on('scroll', stickyMenu);
 
-
   /*--------------- Side menu height to scroll-------------*/
   function navHeight () {
     var sH = $(".nav-menu h6").outerHeight() + $(".nav-menu p").outerHeight();
@@ -145,7 +144,7 @@
     var _self = $(this),
       a = _self.children('.blog-figc').hasClass('.blog-full'),
       b = _self.has('.blog-fig');
-      
+
       if(a || (b.length === 0)){
         _self.css('height', 'auto');
       }

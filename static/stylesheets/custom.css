@@ -1,0 +1,130 @@
+
+img.wp-smiley, img.emoji {
+  display: inline !important;
+  border: none !important;
+  box-shadow: none !important;
+  height: 1em !important;
+  width: 1em !important;
+  margin: 0 .07em !important;
+  vertical-align: -0.1em !important;
+  background: none !important;
+  padding: 0 !important;
+  }
+
+#header{
+margin: 0 auto;
+}
+.main-logo img{
+height: auto !important;
+width: auto !important;
+}
+.menu-container{
+display: none;
+}
+.servicepage .container .row{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+/*.vc_single_image-img {*/
+/*transform-origin: bottom center !important;*/
+/*}*/
+.logo-wrap a img{
+width: auto;
+}
+.post-504 {
+background-color: #ca4c4c !important;
+}
+#rev_slider_2_4_wrapper{
+background-color: transparent !important;
+}
+#mail-text {
+width: 100% !important;
+padding-left: 95px !important;
+}
+.mc4wp-form-fields{
+display: none;
+}
+.contact-figc{
+margin-bottom: 20px;
+}
+.textbox-container{
+margin-right: 20px;
+}
+.textarea-container{
+margin-left: 300px;
+margin-right: 20px;
+text-align: right;
+}
+/*.nf-field-container {*/
+/*    width: 45%;*/
+/*} */
+/*.nf-form-content{*/
+/*        width: 80%;*/
+/*        margin-top: 30px;*/
+/*    margin-left: 130px;*/
+/*}*/
+.nf-form-content nf-fields-wrap{
+display: flex;
+width: 100%;
+flex-wrap: wrap;
+justify-content: flex-end;
+}
+.nf-field-label{
+display: none;
+}
+.nf-form-fields-required {
+display: none;
+}
+#nf-field-3 {
+height: auto;
+}
+.wpb_wrapper {
+text-align: right !important;
+}
+footer {
+padding-bottom: 20px !important;
+}
+.footer-lower {
+display: flex;
+flex-direction: column;
+align-items: center;
+text-align: center !important;
+margin-bottom: 0 !important;
+}
+.footer-lower * {
+padding: 0 !important;
+margin: 0 !important;
+}
+.footer-lower p {
+font-size: 12px;
+}
+#logo_footer {
+width: 250px;
+margin-left: -35px !important;
+margin-top: -30px;
+}
+@media screen and (max-width: 480px) {
+h3{
+font-size: 48px !important;
+}
+nf-field {
+width: 100% !important;
+}
+.textarea-container {
+width: 100% !important;
+margin: 0 !important;
+}
+.textbox-container {
+margin-right: 0 !important;
+}
+}
+
+.page-wrapper-527{}.page-wrapper-527 .opnsans{color:#000000!important; }#page-527{background-size: cover;opacity: 1 ;background-color: #1f282e;}.page-title-527{font-family:!important; color:#000000!important; }.page-wrapper-527{}.page-wrapper-527 .opnsans{color:#000000!important; }.page-wrapper-1089{}.page-wrapper-1089 .opnsans{color:#000000!important; }#page-1089{background-size: cover;opacity: 0 ;background-color: #ffffff;}.page-title-1089{font-family:!important; color:#000000!important; font-family:!important; color:#000000!important; }.page-wrapper-527{}.page-wrapper-527 .opnsans{color:#000000!important; }.page-wrapper-1089{}.page-wrapper-1089 .opnsans{color:#000000!important; }.page-wrapper-292{}.page-wrapper-292 .opnsans{color:#ffffff!important; }#page-292{background-size: cover;opacity: 1 ;background-color: #4b5e62;}.page-title-292{font-family:!important; color:#000000!important; font-family:!important; color:#000000!important; font-family:!important; color:#ffffff!important; }.page-wrapper-527{}.page-wrapper-527 .opnsans{color:#000000!important; }.page-wrapper-1089{}.page-wrapper-1089 .opnsans{color:#000000!important; }.page-wrapper-292{}.page-wrapper-292 .opnsans{color:#ffffff!important; }.page-wrapper-361{}.page-wrapper-361 .opnsans{color:#000000!important; }#page-361{background-size: cover;opacity: 0 ;background-color: #ffffff;}.page-title-361{font-family:!important; color:#000000!important; font-family:!important; color:#000000!important; font-family:!important; color:#ffffff!important; font-family:!important; color:#000000!important; }.page-wrapper-527{}.page-wrapper-527 .opnsans{color:#000000!important; }.page-wrapper-1089{}.page-wrapper-1089 .opnsans{color:#000000!important; }.page-wrapper-292{}.page-wrapper-292 .opnsans{color:#ffffff!important; }.page-wrapper-361{}.page-wrapper-361 .opnsans{color:#000000!important; }.page-wrapper-347{}.page-wrapper-347 .opnsans{color:#000000!important; }#page-347{background-size: cover;opacity: 1 ;background-color: #1a6a7b;}.page-title-347{font-family:!important; color:#000000!important; font-family:!important; color:#000000!important; font-family:!important; color:#ffffff!important; font-family:!important; color:#000000!important; font-family:!important; color:#000000!important; }.page-wrapper-527{}.page-wrapper-527 .opnsans{color:#000000!important; }.page-wrapper-1089{}.page-wrapper-1089 .opnsans{color:#000000!important; }.page-wrapper-292{}.page-wrapper-292 .opnsans{color:#ffffff!important; }.page-wrapper-361{}.page-wrapper-361 .opnsans{color:#000000!important; }.page-wrapper-347{}.page-wrapper-347 .opnsans{color:#000000!important; }.page-wrapper-675{}.page-wrapper-675 .opnsans{color:#000000!important; }#page-675{background-size: cover;opacity: 0 ;background-color: #ca4c4c;}.page-title-675{font-family:!important; color:#000000!important; font-family:!important; color:#000000!important; font-family:!important; color:#ffffff!important; font-family:!important; color:#000000!important; font-family:!important; color:#000000!important; font-family:!important; color:#000000!important; }.page-wrapper-527{}.page-wrapper-527 .opnsans{color:#000000!important; }.page-wrapper-1089{}.page-wrapper-1089 .opnsans{color:#000000!important; }.page-wrapper-292{}.page-wrapper-292 .opnsans{color:#ffffff!important; }.page-wrapper-361{}.page-wrapper-361 .opnsans{color:#000000!important; }.page-wrapper-347{}.page-wrapper-347 .opnsans{color:#000000!important; }.page-wrapper-675{}.page-wrapper-675 .opnsans{color:#000000!important; }.page-wrapper-504{}.page-wrapper-504 .opnsans{color:#000000!important; }#page-504{background-size: cover;opacity: 0 ;background-color: #ffffff;}.page-title-504{font-family:!important; color:#000000!important; font-family:!important; color:#000000!important; font-family:!important; color:#ffffff!important; font-family:!important; color:#000000!important; font-family:!important; color:#000000!important; font-family:!important; color:#000000!important; font-family:!important; color:#000000!important; }.page-sub-title-504{ font-family:; color:#000000;text-align:}
+
+.wpb_animate_when_almost_visible { opacity: 1; }
+
+.works {
+  height: 300px; !important;
+  background-color: yellow;
+}

@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://localhost:1313/"
+baseurl = "http://localhost:1313/"
 languageCode = "en-us"
 title = "INSULA | Digital Studio"
 theme = "hugo-agency-theme"
